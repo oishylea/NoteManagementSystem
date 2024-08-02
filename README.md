@@ -18,11 +18,15 @@
 
 ## Web Preview 📸
 
-Here are some previews of the website:
-  <img src="NoteManagementSystem/images/loginpage.png" alt="Main Page" />
-  <img src="NoteManagementSystem/images/home.png" alt="ae" />
-  <img src="NoteManagementSystem/images/register.png" alt="aaa" />
-  <img src="NoteManagementSystem/images/addnote.png" alt="aaaa" />
-  <img src="NoteManagementSystem/images/tasks.png" alt="aaaa" />
+Here are some previews of the website:<br>
+
+![ae](images/home.png)
+
+![aaaa](images/addnote.png)
+![aaaa](images/tasks.png)
+![Main Page](images/loginpage.png)
+
+![aaa](images/register.png)
+
 
   
