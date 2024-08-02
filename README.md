@@ -4,9 +4,9 @@
 
 ## Features 🌟
 
-- **Task Creation**: Add new tasks with details, category and due date. 📝
+- **Task Creation**: Add new tasks with details, categories, and due dates. 📝
 - **Task Listing**: View all your tasks in an organized list, with the ability to sort and filter. 📋
-- **Task Deletion**: Delete tasks that no longer needed, with a confirmation dialog. 🗑️
+- **Task Deletion**: Delete tasks that are no longer needed, with a confirmation dialog. 🗑️
 - **Task Management**: Mark tasks as completed, edit task details, or reopen completed tasks. ✅
 
 ## Technologies Used 🛠️
