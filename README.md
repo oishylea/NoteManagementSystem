@@ -1,3 +1,5 @@
+  <p align="center"><img src="images/header.jpg" alt="Firebase Main Page" width="100%" /></p>
+
 # Note Management System
  Web application that allows users to create, organize, and manage their personal notes.
 
